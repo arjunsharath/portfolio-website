@@ -20,7 +20,7 @@ const Portfolio = () => {
   const [typedText, setTypedText] = useState(""); // State for the typing effect
   const [isTypingDone, setIsTypingDone] = useState(false); // Indicates when typing is done
 
-  const fullText = "Arjun Sharath Narayanan_";
+  const fullText = "Arjun Sharath";
 
   // Typing effect for the name
   useEffect(() => {
