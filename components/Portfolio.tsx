@@ -1,8 +1,8 @@
 "use client";
-import Image from "next/image";
-import bg from "../asserts/images/bg2.jpg";
+/* eslint-disable react/no-unescaped-entities */
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import React, { useState, useEffect } from "react";
-import { Download, Mail, Menu, X, Linkedin, Github } from "lucide-react";
+import { Download, Menu, X, Linkedin, Github } from "lucide-react";
 
 interface FormData {
   name: string;
